@@ -1,2 +1,5 @@
 # support
-Support App for Nordson SELECT equipment
+Support Portal for Nordson SELECT equipment
+
+Documents and videos to provide on-machine support.
+

@@ -1,5 +1,5 @@
 # Support App
-Support Portal for Nordson SELECT equipment
+Support Portal Application
 
-Documents and videos to provide on-machine support.
+This app provides easy access to technical documents and videos for Nordson selective soldering equipment for maintenance and repair.
 
